@@ -1,2 +1,4 @@
 .terraform*
 terraform.tfstate*
+# keep the current variables local
+01.02.currentVariables.tfvars
